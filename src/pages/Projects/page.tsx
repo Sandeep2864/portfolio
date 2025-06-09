@@ -40,7 +40,7 @@ const ProjectShowcase = () => {
       tags: ["React", "Tailwind CSS", "Portfolio", "Typescript"],
       links: {
         github: "https://github.com/Sandeep2864/portfolio/",
-        demo: "#",
+        demo: "https://portfolio-sandeepreddy.netlify.app/",
       },
       image: portfolio,
       featured: true,
